@@ -8,7 +8,7 @@ This project in build and run on Windows based machine.
 2) In case you do not have chromedriver.exe file on your computer you can download it from http://chromedriver.chromium.org/downloads
 Choose the latest version folder, select and download chromedriver_win32.zip for Windows OS based machine
 Unzip it.
-3) Create new Java Maven project on your IDE. Use selenium-java and jUnit dependencies from 
+3) Create new Java Maven project on your IDE. Use selenium-java and jUnit dependencies from  the POM file.
 4) Change the following paths in search_harry_potter.java file:
 line 21:
         String projectBasePath = "C:\\Users\\Eliyahu\\Downloads\\Stanley\\";
